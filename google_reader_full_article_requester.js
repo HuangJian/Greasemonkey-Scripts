@@ -11,6 +11,7 @@
 // @copyright	ustc.hj@gmail.com
 // @license		MIT
 // @version		1.0
+// @downloadURL https://raw.github.com/HuangJian/Greasemonkey-Scripts/master/google_reader_full_article_requester.js
 // 
 // ==/UserScript==
 

@@ -9,7 +9,8 @@
 // 
 // @copyright	ustc.hj@gmail.com
 // @license		MIT
-// @version		0.1
+// @version		0.2
+// @downloadURL https://raw.github.com/HuangJian/Greasemonkey-Scripts/master/odesk_valuable_job_detector_on_google_reader.js
 // 
 // ==/UserScript==
 
